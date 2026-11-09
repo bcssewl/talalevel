@@ -1,0 +1,7 @@
+{
+  "name": "talalevel",
+  "version": "0.1.0",
+  "description": "Work a Tala Level sales floor from Claude: leads, calls, texts, emails, tasks and lists.",
+  "author": { "name": "Tala Level" },
+  "homepage": "https://app.talalevel.com"
+}

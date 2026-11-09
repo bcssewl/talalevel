@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "talalevel": { "type": "http", "url": "https://app.talalevel.com/mcp" }
+  }
+}

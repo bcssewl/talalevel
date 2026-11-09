@@ -1,0 +1,12 @@
+{
+  "name": "talalevel",
+  "description": "Tala Level's plugins for Claude Code.",
+  "owner": { "name": "Tala Level", "url": "https://app.talalevel.com" },
+  "plugins": [
+    {
+      "name": "talalevel",
+      "source": "./plugins/talalevel",
+      "description": "Work a Tala Level sales floor from Claude: leads, calls, texts, emails, tasks and lists."
+    }
+  ]
+}
