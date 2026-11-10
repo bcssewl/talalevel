@@ -1,6 +1,6 @@
 {
   "name": "talalevel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tala Level from the command line: leads, calls, texts, emails, tasks and lists, with a workspace's API key.",
   "type": "module",
   "bin": {
